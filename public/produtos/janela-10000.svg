@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf6fd"/><stop offset="1" stop-color="#cfe9fa"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3e9ef"/></linearGradient>
+<linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b6673"/><stop offset="1" stop-color="#39424d"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/><rect x="90" y="55" width="220" height="180" rx="14" fill="url(#body)" stroke="#c4cfd9" stroke-width="2"/>
+<g stroke="#c8d2dc" stroke-width="5"><line x1="110" y1="80" x2="230" y2="80"/><line x1="110" y1="94" x2="230" y2="94"/><line x1="110" y1="108" x2="230" y2="108"/><line x1="110" y1="122" x2="230" y2="122"/><line x1="110" y1="136" x2="230" y2="136"/><line x1="110" y1="150" x2="230" y2="150"/><line x1="110" y1="164" x2="230" y2="164"/><line x1="110" y1="178" x2="230" y2="178"/><line x1="110" y1="192" x2="230" y2="192"/><line x1="110" y1="206" x2="230" y2="206"/></g>
+<rect x="245" y="75" width="48" height="70" rx="8" fill="#e8eef3" stroke="#c4cfd9"/>
+<circle cx="269" cy="98" r="11" fill="none" stroke="#2a8fe0" stroke-width="4"/><rect x="255" y="122" width="28" height="8" rx="4" fill="#2a8fe0"/></svg>
